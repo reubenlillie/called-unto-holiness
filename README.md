@@ -92,7 +92,7 @@ Brannon Hannock also has a new arrangement based on the original tune: [![https:
 
 _If you would like to make a tax-deductible contribution:_
 
-You may make financial gifts through the [Church of the Nazarene website](http://nazarene.org/give "Learn how you can give support the mission"). By supporting the [World Evangelism Fund](http://www.nazarene.org/organization/general-treasurer/world-evangelism-fund "Give to the World Evangelism Fund"), [Global Mission Projects "Find a Nazarne Global Mission Project to support"], or simply contributing to ["the greatest need"](https://secure2.convio.net/cn/site/Donation2;jsessionid=EC2E3B43BFFA95C422EDECF1924DE32D.app271b?idb=1229441370&df_id=1460&1460.donation=form1 "Give where the need is greatest"), you'll make the work we do through Information Technology 
+You may make financial gifts through the [Church of the Nazarene website](http://nazarene.org/give "Learn how you can give support the mission"). By supporting the [World Evangelism Fund](http://www.nazarene.org/organization/general-treasurer/world-evangelism-fund "Give to the World Evangelism Fund"), [Global Mission Projects](http://nazarene.org/global-mission-projects "Find a Nazarne Global Mission Project to support"), or simply contributing to ["the greatest need"](https://secure2.convio.net/cn/site/Donation2;jsessionid=EC2E3B43BFFA95C422EDECF1924DE32D.app271b?idb=1229441370&df_id=1460&1460.donation=form1 "Give where the need is greatest"), you'll make the work we do through Information Technology 
 
 #### You may also mail donations to
 
