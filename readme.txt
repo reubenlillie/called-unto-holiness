@@ -79,9 +79,7 @@ To install **Called Unto Holiness**:
 
 = Where can I hear the tune? =
 
-You can find it a lot of places, but you really should check out this great cover in a tongue-and-cheek heavy-metal style by [Brandon Whiteside and Josh Sinclair](https://itunes.apple.com/us/podcast/this-nazarene-life-stories/id1121079907?mt=2# "Available for free on iTunes"). 
-
-It's the intro/outro featured on [_This Nazarene Life_](http://thisnazlife.com "Visit This Nazarene Life's homepage" ), a podcast featuring interviews with young Church of the Nazarene clergy and their role models.
+Check out the collection in the [GitHub wiki](https://github.com/reubenlillie/called-unto-holiness/wiki/Library 'Library of performances of "Holiness of the Lord"')!
  
 == Screenshots ==
 
