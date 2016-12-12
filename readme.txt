@@ -12,7 +12,7 @@ This is not just a plugin, it symbolizes the hope and enthusiasm generations of 
 
 == Description ==
 
-This is not just a plugin, it symbolizes the hope and enthusiasm which the earliest Nazarenes have passed down for generations through each verse of Lelia N. Morris' anthem "Holiness unto the Lord" (1904). When activated you will see a randomly selected lyric from "Holiness unto the Lord" in the upper right of your admin screen on every page.
+This is not just a plugin, it symbolizes the hope and enthusiasm which the earliest Nazarenes have passed down for generations through each verse of Lelia N. Morris' anthem "Holiness unto the Lord" (1900). When activated you will see a randomly selected lyric from "Holiness unto the Lord" in the upper right of your admin screen on every page.
 
 Taking cues from [Matt Mullenwig's](http://ma.tt/ "Check out Matt Mullenwig's blog site") primordial WordPress plugin, ["Hello Dolly"](https://wordpress.org/plugins/hello-dolly/ "Look up 'Hello Dolly' in the WordPress Plugin Directory"), *Called Unto Holiness* serves as its own "call to action" to keep [me](https://reubenlillie.com/about/ "Connect with me, Reuben L. Lillie, on my personal blog") humble and to infuse our WordPress admin areas with a small piece of identity and purpose.
 
